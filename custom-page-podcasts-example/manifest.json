@@ -1,0 +1,15 @@
+{
+	"name" : "Podcasts",
+	"description" : "Adds Podcasts to Cider",
+	"github" : "https://github.com/booploops/cider-test",
+	"icon" : "icon.png",
+	"renderer-script" : "plugin.js",
+	"backend-script" : "plugin-backend.js",
+	"components" : [
+		{
+			"type" : "page",
+			"file" : "views/podcasts-plugin",
+			"route" : "podcasts"
+		}
+	]
+}

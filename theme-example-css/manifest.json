@@ -1,0 +1,7 @@
+{
+	"name" : "My Theme",
+	"description" : "My great theme",
+	"github" : "https://github.com/booploops/cider-test",
+	"icon" : "icon.png",
+	"stylesheets" : [ "theme.css" ]
+}
