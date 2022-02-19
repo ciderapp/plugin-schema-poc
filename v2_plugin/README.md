@@ -1,6 +1,8 @@
 # V2 Plugin
 V2 plugins are in early development, but fundamentally should work the same as progress continues.
 
+https://github.com/ciderapp/Cider/wiki/Plugin-Development
+
 Differences from current plugins:
 * Currently only supports JavaScript
 * Plugin constructors are passed a "PluginEnv" with several helpers
