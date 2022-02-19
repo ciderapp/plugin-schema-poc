@@ -9,6 +9,6 @@ Differences from current plugins:
   * `utils` - Cider utils
   * `win` - The renderer window
   * `dir` - Path to the plugin directory
-* Plugins must contain a `package.json` file, this package.json file uses the same format as node packages so new plugins can be started with `npm init`
+* Plugins must be stored in a folder and contain a `package.json` file, this package.json file uses the same format as node packages so new plugins can be started with `npm init`
 * `index.js` is currently the default entry script for backend plugins
 * The frontend portion of plugins should be loaded on onRendererReady()
