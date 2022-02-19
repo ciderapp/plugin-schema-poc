@@ -1,5 +1,5 @@
 # V2 Plugin
-V2 plugins are currently in early development, but fundamentally should work the same as progress continues.
+V2 plugins are in early development, but fundamentally should work the same as progress continues.
 
 Differences from current plugins:
 * Currently only supports JavaScript
