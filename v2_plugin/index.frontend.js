@@ -12,4 +12,4 @@ class MyV2Plugin {
 }
 
 
-const MyV2Plugin = new MyV2Plugin()
+const V2Plugin = new MyV2Plugin()
